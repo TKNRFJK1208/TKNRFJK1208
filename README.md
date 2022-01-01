@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TKNRFJK1208
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React & TypeScript
+- 👀 I’m interested in React Project
+- 🌱 I’m currently learning Redux & TypeScript
 - 💞️ I’m looking to collaborate on an online shopping project
 - 📫 How to reach me => takanori.fujiki@gmail.com
 
